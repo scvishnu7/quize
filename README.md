@@ -1,11 +1,11 @@
-quize
+quiz
 =====
 
-An web based quize software coded using PHP,Javascript
+An web based quiz software coded using PHP,Javascript
 
-copy the quize directory to apache servers document_root directory.
+copy the quiz directory to apache servers document_root directory.
 import the quize.sql to your mysql database.
 
 Start apache server
-go to           localhost/quize/  and 
-                localhost/quize/admin.php
+go to           localhost/quiz/  and 
+                localhost/quiz/admin.php
